@@ -14,7 +14,7 @@ export default function MainLayout({ children }) {
     <div className="layout-root">
       <aside className={`sidebar ${sidebarAbierto ? "sidebar-abierto" : ""}`}>
         <div className="sidebar-header">
-          <span className="sidebar-titulo">Luscher HNOS</span>
+          <span className="sidebar-titulo">Mi Empresa</span>
           <span className="sidebar-subtitulo">Agenda de Turnos</span>
         </div>
         <nav className="sidebar-nav">
